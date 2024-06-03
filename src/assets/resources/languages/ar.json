@@ -1,0 +1,616 @@
+{
+    "landing": {
+        "unlock": "الاستثمار المتاح للجميع",
+        "discoverSub": "تسهّل كنز إنشاء الثروة وتجعلها متاحة للجميع، بما في ذلك المستثمرين والشركات الناشئة ومديري صناديق الاستثمار ووكلاء العقارات، مما يسرّع النظام الاستثماري في منطقة الشرق الأوسط وشمال أفريقيا",
+        "kanzNetwork": "توفر شبكة كنز المصرفية الاتصالية وصولًا متزايدًا للعملاء إلى التأمين من قبل FDIC وتقلل من مخاطر البنك الواحد",
+        "investSecSub": "تمكين الاستثمارات البديلة",
+        "investPara1": "يتيح كنز للأشخاص تعلم إدارة الثروة على المدى الطويل وتحقيق أحلامهم المالية. كمستثمر في كنز ستحصل على:",
+        "investPara2": "منصة آمنة توفر تجربة مستخدم محسّنة للاستثمار. المزيد من الخيارات لبناء محفظة متنوعة. الوصول إلى الأسواق الخاصة بدون كمية كبيرة من رأس المال. التعليم المالي المحلي على بعد نقرة",
+        "switchedToKanz": "تعزيز نمو الأعمال",
+        "switchPara1": "يدعم كنز الشركات الناشئة والشركات الناشئة من خلال نشر أفضل ثقافة وادي السيليكون في منطقة الشرق الأوسط وشمال أفريقيا. من خلال الانضمام إلى كنز ستحصل على:",
+        "switchPara2": "الوصول إلى مستثمرين ملائكة ورأس المال الاستثماري في مختلف الصناعات والمواقع. تأمين التمويل. الحصول على الدعم الاستراتيجي. الحصول على الدعم التنظيمي. العثور على من يرشدك. إنشاء ضجة بكل إنجاز",
+        "kanzNetworkBank": "جمعت الشركات الناشئة في منطقة الشرق الأوسط وشمال أفريقيا 3.94 مليار دولار في عام 2022 عبر 795 صفقة، بزيادة قدرها 24٪ في قيمة الاستثمار مقارنة بعام 2021 وزيادة بنسبة 22٪ في عدد الصفقات",
+        "invest": "مستثمر",
+        "startup": "الشركات الناشئة",
+        "syndicate": "السنديكيت",
+        "realtor": "وكلاء العقارات"
+    },
+    "onboarding": {
+        "welcome": "مرحبًا بك في كنز",
+        "submitted": "تم تقديم طلبك!",
+        "appStatus": "حالة الطلب",
+        "realtorWelcomeText": "إضافة معلومات المالك",
+        "addCompanyDetails": "إضافة تفاصيل الشركة",
+        "syndicateLead": "إضافة معلومات قائد السنديكيت",
+        "syndicateLeadSub": "ابنِ محفظة استثمارية أو عملك بسهولة باستخدام منصتنا المبتكرة والمحسَّنة للمستخدم",
+        "loginBgAlt": "خلفية تسجيل الدخول",
+        "quotes": "اقتباسات",
+        "createAccount": "إنشاء حساب في كنز",
+        "loginKanz": "تسجيل الدخول إلى حساب كنز الخاص بك",
+        "orSignIn": "أو قم بالتسجيل باستخدام",
+        "googleLogin": "تسجيل الدخول باستخدام Google",
+        "linkedinLogin": "تسجيل الدخول باستخدام LinkedIn",
+        "upperCase": "حرف كبير",
+        "lowerCase": "حرف صغير",
+        "special": "حرف خاص",
+        "num": "رقم",
+        "min8": "الحد الأدنى 8 أحرف",
+        "verificationCode": "رمز التحقق",
+        "verificationText": "أدخل رمز التحقق المكون من 6 أرقام الذي تم إرساله إلى بريدك الإلكتروني",
+        "codeText": "أدخل الرمز",
+        "sentCode": "تم إرسال الرمز إلى بريدك الإلكتروني",
+        "welcomeDashboard": "مرحبًا بك في لوحة التحكم الخاصة بك في كنز",
+        "starterMessage": "ابدأ رحلتك في الاستثمار عن طريق إضافة التفاصيل الأساسية إلى ملف تعريفك",
+        "PropertyOwner": "معلومات المالك",
+        "realtorSubDetail": "تقديم بيانات مالك العقار",
+        "realtorLeadSub": "ابنِ محفظة استثمارية أو عملك بسهولة باستخدام منصتنا المبتكرة والمحسَّنة للمستخدم"
+    },
+    "investorFow": {
+        "type": "اختر نوع المستثمر",
+        "sub": "ابنِ محفظة استثمارية أو عملك بسهولة باستخدام منصتنا المبتكرة والمحسَّنة للمستخدم",
+        "individual": "فرد",
+        "firm": "شركة",
+        "subInd": "انضم إلى مجتمع متنامي من المستثمرين الملاك الجدد والمخضرمين",
+        "subFirm": "تحقق من النجاح كمقاول أو مدير صندوق أو وكيل عقاري"
+    },
+    "individual": {
+        "individual": "تصنيف الفرد",
+        "individualInvestor": "المستثمر الفردي",
+        "sub": "استفد من الفرص التي تناسب محفظة الاستثمار الخاصة بك",
+        "understanding": "أنا أفهم معايير المستثمرين الأفراد.",
+        "option1": "أقل من 1 مليون دولار",
+        "option2": "بين 1-10 مليون دولار",
+        "option3": "أكثر من 10 ملايين دولار",
+        "philosophyGoals": "فلسفة الاستثمار والأهداف",
+        "philosophysub": "فهم نهجك في الاستثمار سيساعد على تبسيط عملية الاستثمار"
+    },
+    "syndicate": {
+        "step": "خطوة",
+        "raisedBefore": "هل قمت بجمع التمويل من قبل؟",
+        "addDetail": "إضافة تفاصيل المبلغ المجمع",
+        "subDetail": "Norem ipsum dolor sit amet ipsum dolor.",
+        "raisedQ": "كم تم جمعه من المبلغ؟",
+        "timesQ": "كم مرة قمت بجمع التمويل؟",
+        "industry": "سوق الصناعة",
+        "industrySub": "Norem ipsum dolor sit amet ipsum dolor.",
+        "region": "المنطقة",
+        "profile": "رابط الملف الشخصي",
+        "dealflow": "إضافة تدفق الصفقات",
+        "syndName": "اسم السنديكيت",
+        "tagline": "إضافة العبارة الدعائية",
+        "logo": "شعار",
+        "uploadCompLogo": "تحميل شعار الشركة"
+    },
+    "company": {
+        "step": "الخطوة",
+        "compName": "اسم الشركة",
+        "legal": "الاسم القانوني",
+        "country": "اختر البلد",
+        "market": "سوق الصناعة",
+        "compWeb": "موقع الشركة",
+        "address": "العنوان",
+        "descBus": "صف نشاطك التجاري",
+        "descBusQues": "كيف تصف نشاطك التجاري؟",
+        "produServ": "ما هي المنتجات والخدمات التي تقدمها للعملاء؟",
+        "ceoDet": "إضافة تفاصيل المدير التنفيذي",
+        "ceoDetSub": "نورم إيبسوم دولور سيت أميت",
+        "name": "الاسم",
+        "dummyemail": "you@example.com",
+        "logo": "شعار",
+        "uploadCompLogo": "تحميل شعار الشركة",
+        "capRaised": "إجمالي رأس المال المجمع (قبل هذه الجولة)",
+        "capTarget": "الهدف من رأس المال المراد جمعه (لهذه الجولة)",
+        "addCapRaise": "إضافة رأس المال المجمع",
+        "addCapTarget": "إضافة هدف الرأس المال"
+    },
+    "philosophyGoals": {
+        "req": "متطلبات الدخل",
+        "uploadNecessary": "قم بتحميل الوثائق اللازمة لإثبات دخلك.",
+        "whyToDo": "لماذا يتعين علي فعل ذلك؟"
+    },
+    "investmentHorizon": {
+        "horizon": "فترة الاستثمار"
+    },
+    "firm": {
+        "firm": "اعتماد الشركة",
+        "sub": "نورم إيبسوم دولور سيت أميت، كونسكتيتور أديبيسسينغ إيليت",
+        "understanding": "أنا أفهم معايير المستثمرين الشركات.",
+        "option1": "الشركة لديها أكثر من 100 مليون دولار في الاستثمارات",
+        "option2": "الشركة لديها بين 50 مليون و100 مليون دولار في الاستثمار",
+        "option3": "الشركة لديها بين 10 ملايين و50 مليون دولار في الاستثمار",
+        "option4": "الشركة لديها بين 1 مليون و10 ملايين دولار في الاستثمار"
+    },
+    "header": {
+        "attachment": "المرفقات",
+        "syndicateLead": "معلومات قائد الشراكة",
+        "companyDetails": "تفاصيل الشركة",
+        "investment": "استثمار",
+        "startup": "شركة ناشئة",
+        "syndicate": "شركة شراكة",
+        "realtor": "وكيل عقاري"
+    },
+    "common": {
+        "risk": "تنصل من المخاطر:",
+        "accredited": "معتمد",
+        "accerQuestion": "كيف يمكنني الحصول على الاعتماد؟",
+        "fullName": "الاسم الكامل",
+        "legalName": "الاسم القانوني",
+        "email": "عنوان البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "learn": "معرفة المزيد",
+        "clickDetails": "انقر هنا للتفاصيل",
+        "national": "بلد الإقامة",
+        "location": "الموقع",
+        "residence": "الإقامة",
+        "NoOfProperty": "عدد العقارات",
+        "attachmentPending": "يتم معالجة المرفقات الخاصة بك. قم بإضافة المرفقات لاعتماد الحساب",
+        "aed": "درهم إماراتي",
+        "usd": "دولار أمريكي",
+        "million": "مليون",
+        "noCountries": "لم يتم العثور على بلدان",
+        "example": "انظر المثال",
+        "agree": "أوافق على شروط",
+        "termsConditions": "الأحكام والشروط",
+        "inprogress": "قيد التنفيذ",
+        "inreview": "قيد المراجعة",
+        "submitted": "تم الإرسال",
+        "required_field": "هذا الحقل مطلوب.",
+        "selectCurrency": "حدد العملة",
+        "fileSpecs": "PNG، JPG، PDF حتى"
+    },
+    "buttons": {
+        "start": "البدء",
+        "edit": "تعديل",
+        "resendVerification": "إعادة إرسال الكود",
+        "verify": "التحقق",
+        "createAccount": "إنشاء حساب",
+        "continue": "متابعة",
+        "back": "العودة",
+        "addAttachment": "إضافة مرفق",
+        "gotoDashboard": "الانتقال إلى لوحة التحكم",
+        "yes": "نعم",
+        "no": "لا",
+        "upload": "تحميل",
+        "uploadFile": "تحميل ملف",
+        "orDragDrop": "أو قم بالسحب والإفلات",
+        "preview": "معاينة",
+        "submit": "إرسال",
+        "signin": "تسجيل الدخول",
+        "logout": "تسجيل الخروج",
+        "getStart": "البدء",
+        "readDocs": "قراءة الوثائق",
+        "proceed": "المتابعة",
+        "notRegistered": "غير مسجل؟",
+        "alreadyAccount": "هل لديك حساب بالفعل؟",
+        "signup": "الاشتراك"
+    },
+    "modal": {
+        "thankyou": "\"شكرًا لتقديم المعلومات الخاصة بك!",
+        "sub_1": "لقد تلقينا إجاباتك وسنقوم بتحديثك عبر البريد الإلكتروني في وقت قريب.",
+        "sub_2": "يرجى ملاحظة أننا سنستخدم المعلومات التي قدمتها لتخصيص تجربة الاستثمار الخاصة بك وتزويدك بتوصيات ونصائح ذات صلة.",
+        "sub_3": "إذا كنت تحتاج إلى إجراء أي تغييرات على معلوماتك، يرجى",
+        "sub_4": " الاتصال بنا على",
+        "horizon_para_1": "نظرية المحفظة الحديثة (MPT) هي استراتيجية استثمارية تستند إلى فكرة أن المستثمرين الذين يتجنبون المخاطر يمكنهم بناء محفظة لتحقيق العائد المتوقع المثلى أو تحقيق العائد الأقصى لمستوى معين من المخاطر السوقية، حيث يؤكدون أن المخاطرة هي جزء لا يتجزأ من العائد الأعلى.",
+        "horizon_para_2": "وفقًا لـ MPT، تشكل حافة المحفظة، المعروفة أيضًا بالحدود الكفؤة، مجموعة من المحافظ التي تعزز العائدات المتوقعة لكل مستوى من انحراف المعيار (المخاطرة). يتم توضيح حافة المحفظة النموذجية أدناه:"
+    },
+    "promptMessages": {
+        "invalidEmail": "أنت تكتب عنوان بريد إلكتروني غير صالح",
+        "invalidEmailCeo": "يرجى إدخال بريد إلكتروني صالح للمدير التنفيذي",
+        "fileUpload": "تم التحميل بنجاح",
+        "bigFile": "الملف كبير جدًا",
+        "maxSize": "أقصى حجم للملف هو",
+        "invalidFormat": "تنسيق الملف غير مسموح به",
+        "errorGeneral": "حدث خطأ أثناء أداء هذا الإجراء",
+        "errorFileUpload": "حدث خطأ أثناء تحميل الملف",
+        "pleaseSelectInvest": "يرجى اختيار نوع المستثمر",
+        "pleaseSelectAllData": "يرجى ملء جميع البيانات المطلوبة",
+        "pleaseEnterUrl": "يرجى إدخال رابط صالح",
+        "pleaseUploadAttachments": "يرجى تحميل جميع الملفات",
+        "pleaseAcceptPP": "يجب عليك قبول شروط وأحكام كنز قبل الإرسال",
+        "invalidCode": "رمز المصادقة غير صالح",
+        "maxLimitInvalid": "لقد أدخلت رمزًا غير صالح لمرات عديدة. يرجى التسجيل مرة أخرى",
+        "validProfile": "يرجى إدخال رابط ملف تعريف صالح",
+        "validComp": "يرجى إدخال رابط شركة صالح"
+    },
+    "drawer": {
+        "attachments": "الوصول إلى مستثمرين ملائكة ورأس المال الاستثماري في مختلف الصناعات والمواقع. تأمين التمويل. الحصول على الدعم الاستراتيجي. الحصول على الدعم التنظيمي. العثور على من يرشدك. إنشاء ضجة بكل إنجاز",
+        "completeDetails": "الوصول إلى مستثمرين ملائكة ورأس المال الاستثماري في مختلف الصناعات والمواقع. تأمين التمويل. الحصول على الدعم الاستراتيجي. الحصول على الدعم التنظيمي. العثور على من يرشدك. إنشاء ضجة بكل إنجاز",
+        "firm": "الوصول إلى مستثمرين ملائكة ورأس المال الاستثماري في مختلف الصناعات والمواقع. تأمين التمويل. الحصول على الدعم الاستراتيجي. الحصول على الدعم التنظيمي. العثور على من يرشدك. إنشاء ضجة بكل إنجاز",
+        "investor": "الوصول إلى مستثمرين ملائكة ورأس المال الاستثماري في مختلف الصناعات والمواقع. تأمين التمويل. الحصول على الدعم الاستراتيجي. الحصول على الدعم التنظيمي. العثور على من يرشدك. إنشاء ضجة بكل إنجاز",
+        "questionare": "الوصول إلى مستثمرين ملائكة ورأس المال الاستثماري في مختلف الصناعات والمواقع. تأمين التمويل. الحصول على الدعم الاستراتيجي. الحصول على الدعم التنظيمي. العثور على من يرشدك. إنشاء ضجة بكل إنجاز",
+        "realtor": "الوصول إلى مستثمرين ملائكة ورأس المال الاستثماري في مختلف الصناعات والمواقع. تأمين التمويل. الحصول على الدعم الاستراتيجي. الحصول على الدعم التنظيمي. العثور على من يرشدك. إنشاء ضجة بكل إنجاز",
+        "individual": "الوصول إلى مستثمرين ملائكة ورأس المال الاستثماري في مختلف الصناعات والمواقع. تأمين التمويل. الحصول على الدعم الاستراتيجي. الحصول على الدعم التنظيمي. العثور على من يرشدك. إنشاء ضجة بكل إنجاز",
+        "country": "دولة",
+        "of": "من",
+        "onboardSub_1": "نحن # دمقرطة الاستثمارات في منطقة MENAPT وخارجها",
+        "cofRes": "بلد الإقامة",
+        "startSub": "أضف بعض التفاصيل حول بدء التشغيل الخاص بك لتأمين الاستثما",
+        "attach_realtor": "Kanz is committed to complying with all registration guidelines set by DFSA, including collecting and maintaining valid and updated information of all property owners registering on our platform.",
+        "attach_startup": "Kanz is committed to complying with all registration guidelines set by DFSA, including collecting and maintaining valid and updated information of all startups registering on our platform",
+        "attach_syndicate": "Kanz is committed to complying with all registration guidelines set by DFSA, including collecting and maintaining valid and updated information of all startups registering on our platform."
+    },
+    "v2": {
+        "investor": {
+            "home_sub": "Start your investing journey by adding basic details to your profile",
+            "onboardSub_2": "Start investing today with USD 1,000 only",
+            "onboardSub_3": "Raise funds for your startup, SPV or real estate projects",
+            "accreditation_drawer": "Kanz would like to know you better in order to fulfil KYC (Know Your Customer) requirements in compliance with the guidelines issued by the Dubai Financial Services Authority (DFSA).",
+            "li": [
+                "A secure platform that delivers optimized user-experience for investing",
+                "More choices to build a diversified portfolio",
+                "Access to private markets without a significant amount of capital",
+                "Localized financial education at your fingertips"
+            ]
+        },
+        "startup": {
+            "onboardSub_2": "Access a growing network of investors, raise funds, find mentors, and promote your startup!",
+            "home_sub": "Begin your fundraising journey by completing your profile"
+        },
+        "syndicate": {
+            "onboardSub_2": "Run SPVs and raise funds privately, on a deal-by-deal basis, via our network of highly vetted investors",
+            "home_sub": "Evaluate deals and invest in game-changing startups by completing your profile"
+        },
+        "realtor": {
+            "onboardSub_2": "Get your properties in front of active investors and asset managers!",
+            "home_sub": "Start listing your properties by completing your profile",
+            "add_title": "Property Owner",
+            "country_of_res": "Country of Residence",
+            "attachment_provider": "Why do I need to provide this?"
+        },
+        "buttons": {
+            "send": "Send",
+            "allow": "Allow All",
+            "disable": "Disable All",
+            "customize": "Customize Settings"
+        },
+        "common": {
+            "understood": " and have read and understood the",
+            "privacyPolicy": " Privacy Policy",
+            "tuned": "Stay tuned for updates!",
+            "risk_firm": "I understand the criteria for investor firms",
+            "contact": "Contact Kanz",
+            "ques_ask": "If you have any questions, concerns, or complaints, we encourage you to drop us an email on:",
+            "prim_email": "hello@kanz.capital",
+            "cokie_link": "https://kanz.capital/cookiepolicy",
+            "rejected": "Rejected",
+            "verified": "Verified",
+            "reopened": "Re Opened",
+            "approved": "Approved",
+            "has_been": "Your application has been ",
+            "imageSpecs": "PNG, JPG up to"
+        },
+        "risk": {
+            "heading": "Risk Disclaimer",
+            "sub_head_1": "Please read to understand the risks of investing.",
+            "sub_head_2": "All investments carry risks and their value can increase or decrease at any time, which means you may not earn the expected income or lose all the funds invested.",
+            "para_1": "Part performance is not an indicator of future success. We encourage you to invest very carefully. If you choose to invest via Kanz, it is important that you remain aware of the risks involved, have adequate financial resources to bear any losses and monitor your investments and deals carefully.",
+            "para_2": "Kanz provides general information, educational content and investment opportunities, which are not based on your objectives, financial situation or needs. The content of this platform must not be interpreted as personal advice. Please ensure that you fully understand the risks involved and seek independent advice if necessary.",
+            "kanz_edu": "Kanz Education ",
+            "para_3": "is for educational purposes only and our content is not tailored to help you meet your specific investment objectives, financial situation or needs. Views expressed in \"posts\" (including blogs, podcasts, videos, social media, et al.) are those of individual content creators and may not be shared by Kanz Capital or its respective affiliates.",
+            "para_4": "This Risk Disclaimer Policy does not intend to disclose or discuss all the risks of investing, hence you (the \"Client” or the \"Customer”) undertake and warrant to consult with your own legal, tax and other financial advisers prior to entering into any particular transaction with us. "
+        },
+        "cookie_policy": {
+            "heading": "Kanz Cookies & Similar Technology Policy",
+            "para_1": "When you visit Kanz.capital, we may store or retrieve information on your browser, mostly in the form of cookies – which are text files downloaded to your device -- or other similar technology. This information might be about you, your preferences or your device and is mostly used to make the platform function as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience.",
+            "para_2": "Kanz respects your right to privacy so you can always choose your settings in cookie consent manager and allow only some types of cookies. However, blocking some types of cookies may affect your experience of the platform and the services we are able to offer.",
+            "welcome_cookie_message": "Welcome to Kanz.capital! By clicking \"Allow All\", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts."
+        },
+        "privacy_policy": {
+            "title": "KANZ PRIVACY POLICY",
+            "para_1": "This privacy notice for Kanz Capital (\"Company,\" \"Web Platform\", \"we,\" \"us,\" or \"our\"), describes how and why we might collect, store, use, and/or share (\"process\") your information when you use our services (\"Services\"), such as when you:",
+            "link": "https://kanz.capital",
+            "li_1": "Visit our web platform at",
+            "li_1a": ", or any website of ours that links to this privacy notice",
+            "li_2": "Engage with us in other related ways, including any sales, marketing, or events",
+            "para_2": "Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us on <u>support@kanz.capital</u>",
+            "support": "support@kanz.capital",
+            "content": [
+                {
+                    "heading": "SUMMARY OF KEY POINTS",
+                    "paras": [
+                        "This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for."
+                    ]
+                },
+                {
+                    "heading": "What personal information do we process?",
+                    "paras": [
+                        "When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Kanz Capital and the Services, the choices you make, and the products and features you use. "
+                    ]
+                },
+                {
+                    "heading": "Do we process any sensitive personal information? ",
+                    "paras": [
+                        "We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law."
+                    ]
+                },
+                {
+                    "heading": "Do we receive any information from third parties?",
+                    "paras": [
+                        "We may receive information from public databases, marketing partners, social media platforms, and other outside sources."
+                    ]
+                },
+                {
+                    "heading": "How do we process your information? ",
+                    "paras": [
+                        "We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so."
+                    ]
+                },
+                {
+                    "heading": "In what situations and with which parties do we share personal information? ",
+                    "paras": [
+                        "We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information."
+                    ]
+                },
+                {
+                    "heading": "How do we keep your information safe? ",
+                    "paras": [
+                        "We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. "
+                    ]
+                },
+                {
+                    "heading": "What are your rights? ",
+                    "paras": [
+                        "Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights."
+                    ]
+                },
+                {
+                    "heading": "How do you exercise your rights?",
+                    "paras": [
+                        "The easiest way to exercise your rights is by contacting us. We will consider and act upon any request in accordance with applicable data protection laws."
+                    ]
+                }
+            ],
+            "table": "TABLE OF CONTENTS",
+            "table_contents": [
+                {
+                    "title": "1. WHAT INFORMATION DO WE COLLECT?",
+                    "paras": [
+                        "We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.",
+                        "The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:"
+                    ],
+                    "li": [
+                        "Names",
+                        "Phone Numbers",
+                        "Job Titles",
+                        "Mailing Addresses",
+                        "Email Addresses",
+                        "Usernames",
+                        "Passwords",
+                        "Contact or Authentication Data",
+                        "Contact Preferences",
+                        "Billing Addresses",
+                        "Debit/credit Card Numbers",
+                        "Proof of Identity",
+                        "Proof of Residence"
+                    ],
+                    "additional_content": [
+                        {
+                            "heading": "Sensitive Information",
+                            "paras": [
+                                "When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:",
+                                "<div style='margin-left: 25px'><li>Financial Data</li><li>Social Media Login Data</li></div>",
+                                "We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called \"HOW DO WE HANDLE YOUR SOCIAL LOGINS?\" below.",
+                                "All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information."
+                            ]
+                        },
+                        {
+                            "heading": "Information Automatically Collected",
+                            "paras": [
+                                "We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes. Like many businesses, we also collect information through cookies and similar technologies. You can find out more about this in our Cookie Notice:  <u>https://kanz.capital/cookiepolicy</u>"
+                            ]
+                        },
+                        {
+                            "heading": "Information collected from other sources",
+                            "paras": [
+                                "In order to enhance our ability to provide relevant marketing, offers, and services to you and update our records, we may obtain information about you from other sources, such as public databases, joint marketing partners, affiliate programs, data providers, social media platforms, and from other third parties. This information includes mailing addresses, job titles, email addresses, phone numbers, intent data (or user behavior data), Internet Protocol (IP) addresses, social media profiles, social media URLs, and custom profiles, for purposes of targeted advertising and event promotion. If you interact with us on a social media platform using your social media account (e.g., Facebook or Twitter), we receive personal information about you such as your name, email address, and gender. Any personal information that we collect from your social media account depends on your social media account's privacy settings."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "2. HOW DO WE PROCESS YOUR INFORMATION?",
+                    "paras": [
+                        "We process your personal information for a variety of reasons, depending on how you interact with our Web Platform, including:"
+                    ],
+                    "li": [
+                        "<b>To facilitate account creation and authentication and otherwise manage user accounts.</b> We may process your information so you can create and log in to your account, as well as keep your account in working order.",
+                        "<b>To deliver and facilitate delivery of services to the user.</b> We may process your information to provide you with the requested service.",
+                        "<b>To respond to user inquiries/offer support to users.</b> We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.",
+                        "<b>To save or protect an individual's vital interest.</b> We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm ."
+                    ]
+                },
+                {
+                    "title": "3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?",
+                    "paras": [
+                        "We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.",
+                        "<strong>If you are located in the EU or UK, this section applies to you.</strong>",
+                        "<strong>The General Data Protection Regulation (GDPR) and UK GDPR</strong> require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:"
+                    ],
+                    "li": [
+                        "<strong>Consent -</strong> We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. ",
+                        "<strong>Performance of a Contract -</strong> We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.",
+                        "<strong>Legal Obligations -</strong> We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.",
+                        "<strong>Vital Interests -</strong> We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person."
+                    ],
+                    "additional_content": [
+                        {
+                            "heading": "<b>If you are located in Canada, this section applies to you.</b>",
+                            "paras": [
+                                "We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time.",
+                                "In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:"
+                            ],
+                            "li": [
+                                "If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way",
+                                "For investigations and fraud detection and prevention",
+                                "For business transactions provided certain conditions are met",
+                                "If it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claim",
+                                "For identifying injured, ill, or deceased persons and communicating with next of kin",
+                                "If we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuse",
+                                "If it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province",
+                                "If disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records",
+                                "If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced.",
+                                "If the collection is solely for journalistic, artistic, or literary purposes",
+                                "If the information is publicly available and is specified by the regulations"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?",
+                    "paras": [
+                        "We may need to share your personal information in the following situations:"
+                    ],
+                    "li": [
+                        "<strong>Business Transfers -</strong> We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.",
+                        "<strong>Affiliates -</strong> We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy notice. Affiliates include our parent company and any subsidiaries, joint venture partners, or other companies that we control or that are under common control with us.",
+                        "<strong>Business Partners -</strong> We may share your information with our business partners to offer you certain products, services, or promotions."
+                    ]
+                },
+                {
+                    "title": "5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?",
+                    "paras": [
+                        "The Web Platform may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions."
+                    ]
+                },
+                {
+                    "title": "6. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?",
+                    "paras": [
+                        "We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice:  <u>https://kanz.capital/cookiepolicy</u>"
+                    ]
+                },
+                {
+                    "title": "7. HOW DO WE HANDLE YOUR SOCIAL LOGINS?",
+                    "paras": [
+                        "If you choose to register or log in to our Services using a social media account, we may have access to certain information about you. Our Services offer you the ability to register and log in using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, and profile picture, as well as other information you choose to make public on such a social media platform. We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use, and share your personal information, and how you can set your privacy preferences on their sites and apps."
+                    ]
+                },
+                {
+                    "title": "8. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?",
+                    "paras": [
+                        "We may transfer, store, and process your information in countries other than your own. Our servers are located in the United Arab Emirates. If you are accessing our Services from outside the United Arab Emirates, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see \"WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?\" above), in the United Arab Emirates, and other countries.",
+                        "If you are a resident in the European Economic Area (EEA) or United Kingdom (UK), then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. However, we will take all necessary measures to protect your personal information in accordance with this privacy notice and applicable law."
+                    ]
+                },
+                {
+                    "title": "9. HOW LONG DO WE KEEP YOUR INFORMATION?",
+                    "paras": [
+                        "We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than twenty four (24) months past the termination of the user's account. When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible."
+                    ]
+                },
+                {
+                    "title": "10. HOW DO WE KEEP YOUR INFORMATION SAFE?",
+                    "paras": [
+                        "We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment."
+                    ]
+                },
+                {
+                    "title": "11. DO WE COLLECT INFORMATION FROM MINORS?",
+                    "paras": [
+                        "We do not knowingly solicit data from or market to children under 18 years of age. By using the Web Platform, you represent that you are at least 18 years old. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us on  <u>support@kanz.capital</u>"
+                    ]
+                },
+                {
+                    "title": "12. WHAT ARE YOUR PRIVACY RIGHTS?",
+                    "paras": [
+                        "In some regions (like the EEA, UK, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section \"HOW CAN YOU CONTACT US ABOUT THIS NOTICE?\" below.",
+                        "We will consider and act upon any request in accordance with applicable data protection laws. If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority or UK data protection authority.",
+                        "If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner."
+                    ],
+                    "additional_content": [
+                        {
+                            "heading": "Withdrawing your consent",
+                            "paras": [
+                                " If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section \"HOW CAN YOU CONTACT US ABOUT THIS NOTICE?\" below or updating your preferences.",
+                                "However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent."
+                            ]
+                        },
+                        {
+                            "heading": "Opting out of marketing and promotional communications:",
+                            "paras": [
+                                "You can unsubscribe from our marketing and promotional communications at any time by clicking on the unsubscribe link in the emails that we send, or by contacting us using the details provided in the section \"HOW CAN YOU CONTACT US ABOUT THIS NOTICE?\" below. You will then be removed from the marketing lists. However, we may still communicate with you — for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes."
+                            ]
+                        },
+                        {
+                            "heading": "Account Information",
+                            "paras": [
+                                "If you would at any time like to review or change the information in your account or terminate your account, you can:",
+                                "<li>Log in to your account settings and update your user account. Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.</li>"
+                            ]
+                        },
+                        {
+                            "heading": "Cookies and similar technologies:",
+                            "paras": [
+                                "Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. You may also opt out of interest-based advertising by advertisers on our Services. For further information, please see our Cookie Notice: <u>https://kanz.capital/cookiepolicy</u>",
+                                "If you have questions or comments about your privacy rights, you may email us at <u>support@kanz.capital</u>"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "13. CONTROLS FOR DO-NOT-TRACK FEATURES",
+                    "paras": [
+                        "Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (\"DNT\") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice."
+                    ]
+                },
+                {
+                    "title": "14. DO WE MAKE UPDATES TO THIS NOTICE?",
+                    "paras": [
+                        "We may update this privacy notice from time to time. The updated version will be indicated by an updated \"Revised\" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information."
+                    ]
+                },
+                {
+                    "title": "15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?",
+                    "paras": [
+                        "If you have questions or comments about this notice, you may email us at <u>support@kanz.capital</u>"
+                    ]
+                },
+                {
+                    "title": "16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?",
+                    "paras": [
+                        "Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. ",
+                        "To request to review, update, or delete your personal information, please email: <u>support@kanz.capital</u>"
+                    ]
+                }
+            ]
+        },
+        "terms_conditions": {
+            "title": "Kanz General Terms & Conditions",
+            "para_1": "Welcome to <strong>Kanz</strong>. These Kanz General Terms and Conditions (\"Agreement\") constitute a legally binding agreement between you (\"User”, \"you” or \"your”) and <strong>Kanz Capital</strong> (\"Kanz Capital”, \"Web Platform”, \"we”, \"us” or \"our”), governing your access and use of <stron>kanz.capital</strong> and any of its related products and services (collectively, \"Services\").",
+            "para_2": "If you are entering into this agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this agreement, in which case the terms \"User”, \"you” or \"your” shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this agreement, you must not accept this agreement and may not access and use the Web Platform and Services. By accessing and using the Web Platform and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. You acknowledge that this Agreement is a contract between you and Kanz Capital, even though it is electronic and is not physically signed by you, and it governs your use of the Web Platform and Services.",
+            "heading_1": "Accounts and Membership",
+            "para_3": "You must be at least 18 years of age to use the Web Platform and Services. By using the Web Platform and Services and by agreeing to this Agreement you warrant and represent that you are at least 18 years of age. If you create an account on the Web Platform, you are responsible for maintaining the security of your account and you are fully responsible for all activities that occur under the account and any other actions taken in connection with it.",
+            "para_4": "We may monitor and review new accounts before you sign in and start using the Services. Providing false contact information of any kind may result in the termination of your account. You must immediately notify us of any unauthorized uses of your account or any other breaches of security. We will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions. We may suspend, disable, or delete your account (or any part thereof) if we determine that you have violated any provision of this Agreement or that your conduct or content would tend to damage our reputation and goodwill. If we delete your account for the foregoing reasons, you may not re-register for our Services. We may block your email address and Internet protocol address to prevent further registration.",
+            "heading_2": "User Content",
+            "para_5": "We do not own any data, information or material (collectively, \"Content”) that you submit on the Web Platform in the course of using the Service. You shall have sole responsibility for the accuracy, quality, integrity, legality, reliability, appropriateness, and intellectual property ownership or right to use of all submitted Content. We may monitor and review the Content on the Web Platform submitted or created using our Services by you. You grant us permission to access, copy, distribute, store, transmit, reformat, display and perform the Content of your user account solely as required for the purpose of providing the Services to you. Without limiting any of those representations or warranties, we have the right, though not the obligation, to, in our own sole discretion, refuse or remove any Content that, in our reasonable opinion, violates any of our policies or is in any way harmful or objectionable. You also grant us the license to use, reproduce, adapt, modify, publish, or distribute the Content created by you or stored in your user account for commercial, marketing or any similar purpose.",
+            "heading_3": "Backups",
+            "para_6": "We perform regular backups of the Web Platform and its Content and will do our best to ensure completeness and accuracy of these backups. In the event of the hardware failure or data loss we will restore backups automatically to minimize the impact and downtime.",
+            "heading_4": "Links to Other Resources",
+            "para_7": "Although the Web Platform and Services may link to other resources (such as Web Platforms, mobile applications, etc.), we are not, directly or indirectly, implying any approval, association, sponsorship, endorsement, or affiliation with any linked resource, unless specifically stated herein. We are not responsible for examining or evaluating, and we do not warrant the offerings of, any businesses or individuals or the content of their resources. We do not assume any responsibility or liability for the actions, products, services, and content of any other third parties. You should carefully review the legal statements and other conditions of use of any resource which you access through a link on the Web Platform. Your linking to any other off-site resources is at your own risk.",
+            "heading_5": "Prohibited Uses",
+            "para_8": "In addition to other terms as set forth in the Agreement, you are prohibited from using the Web Platform and Services or Content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Web Platform and Services, third party products and services, or the Internet; (h) to spam, phish, pharm, pretext, spider, crawl, or scrape; (i) for any obscene or immoral purpose; or (j) to interfere with or circumvent the security features of the Web Platform and Services, third party products and services, or the Internet. We reserve the right to terminate your use of the Web Platform and Services for violating any of the prohibited uses.",
+            "heading_6": "Intellectual property rights",
+            "para_9": "\"Intellectual Property Rights\" means all present and future rights conferred by statute, common law or equity in or in relation to any copyright and related rights, trademarks, designs, patents, inventions, goodwill and the right to sue for passing off, rights to inventions, rights to use, and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, rights to claim priority from, such rights and all similar or equivalent rights or forms of protection and any other results of intellectual activity which subsist or will subsist now or in the future in any part of the world. This Agreement does not transfer to you any intellectual property owned by Kanz Capital or third parties, and all rights, titles, and interests in and to such property will remain (as between the parties) solely with Kanz Capital. All trademarks, service marks, graphics and logos used in connection with the Web Platform and Services, are trademarks or registered trademarks of Kanz Capital or its licensors. Other trademarks, service marks, graphics and logos used in connection with the Web Platform and Services may be the trademarks of other third parties. Your use of the Web Platform and Services grants you no right or license to reproduce or otherwise use any of Kanz Capital or third-party trademarks.",
+            "heading_7": "Limitation of Liability",
+            "para_10": "To the fullest extent permitted by applicable law, in no event will Kanz Capital, its affiliates, directors, officers, employees, agents, suppliers or licensors be liable to any person for any indirect, incidental, special, punitive, cover or consequential damages (including, without limitation, damages for lost profits, revenue, sales, goodwill, use of content, impact on business, business interruption, loss of anticipated savings, loss of business opportunity) however caused, under any theory of liability, including, without limitation, contract, tort, warranty, breach of statutory duty, negligence or otherwise, even if the liable party has been advised as to the possibility of such damages or could have foreseen such damages. To the maximum extent permitted by applicable law, the aggregate liability of Kanz Capital and its affiliates, officers, employees, agents, suppliers and licensors relating to the services will be limited to an amount no greater than one dollar or any amounts actually paid in cash by you to Kanz Capital for the prior one-month period prior to the first event or occurrence giving rise to such liability. The limitations and exclusions also apply if this remedy does not fully compensate you for any losses or fails of its essential purpose.",
+            "heading_8": "Indemnification",
+            "para_11": "You agree to indemnify and hold Kanz Capital and its affiliates, directors, officers, employees, agents, suppliers and licensors harmless from and against any liabilities, losses, damages or costs, including reasonable attorneys’ fees, incurred in connection with or arising from any third party allegations, claims, actions, disputes, or demands asserted against any of them as a result of or relating to your Content, your use of the Web Platform and Services or any willful misconduct on your part.",
+            "heading_9": "Severability",
+            "para_12": "All rights and restrictions contained in this Agreement may be exercised and shall be applicable and binding only to the extent that they do not violate any applicable laws and are intended to be limited to the extent necessary so that they will not render this Agreement illegal, invalid or unenforceable. If any provision or portion of any provision of this Agreement shall be held to be illegal, invalid or unenforceable by a court of competent jurisdiction, it is the intention of the parties that the remaining provisions or portions thereof shall constitute their agreement with respect to the subject matter hereof, and all such remaining provisions or portions thereof shall remain in full force and effect.",
+            "heading_10": "Dispute Resolution",
+            "para_13": "The formation, interpretation, and performance of this Agreement and any disputes arising out of it shall be governed by the substantive and procedural laws of Dubai, United Arab Emirates without regard to its rules on conflicts or choice of law and, to the extent applicable, the laws of Dubai, United Arab Emirates. The exclusive jurisdiction and venue for actions related to the subject matter hereof shall be the courts located in Dubai, United Arab Emirates, and you hereby submit to the personal jurisdiction of such courts. You hereby waive any right to a jury trial in any proceeding arising out of or related to this Agreement.",
+            "heading_11": "Amendments",
+            "para_14": "We reserve the right to modify this Agreement or its terms related to the Web Platform and Services at any time at our discretion. When we do, we will revise the updated date at the bottom of this page, post a notification on the main page of the Web Platform, and send an email to notify you. We may also provide notice to you in other ways at our discretion, such as through the contact information you have provided.",
+            "para_15": "An updated version of this Agreement will be effective immediately upon the posting of the revised Agreement unless otherwise specified. Your continued use of the Web Platform and Services after the effective date of the revised Agreement (or such other act specified at that time) will constitute your consent to those changes.",
+            "heading_12": "Acceptance of Terms",
+            "para_16": "You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Web Platform and Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Web Platform and Services."
+        },
+        "sessions": {
+            "something_wrong": "هناك خطأ ما",
+            "signed_in": "تم تسجيل الدخول بنجاح",
+            "signed_up": "مرحبًا! لقد قمت بالتسجيل بنجاح",
+            "invalid_password": "اختر كلمة مرور قوية. يجب أن تتكون كلمة المرور الخاصة بك من: 8 أحرف، تحتوي على حرف صغير وحرف كبير ورقم وحرف خاص على الأقل",
+            "email_taken": "البريد الإلكتروني مسجل مسبقا",
+            "invalid_creds": "البريد الإلكتروني أو كلمة المرور غير صالحة"
+        }
+    }
+}

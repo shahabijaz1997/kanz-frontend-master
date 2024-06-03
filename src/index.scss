@@ -1,0 +1,29 @@
+  @import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap');
+
+  :root {
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+
+    --background-check: #F1F1F1;
+    --background-submit: #0E2E35;
+    --background-bell: #F5F5F5;
+    --background-checked: #27AE60;
+    --header-border: #E0E0E0;
+  }
+
+  .check-background {
+    background-color: var(--background-check);
+  }
+
+  .bell-background {
+    background-color: var(--background-bell);
+  }
+
+  .checked-background {
+    background-color: var(--background-checked);
+  }
+
+  .border-grey {
+    border-color: var(--header-border);
+  }
